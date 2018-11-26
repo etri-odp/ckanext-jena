@@ -29,7 +29,7 @@
     :alt: License
 
 ===========================================================
-ckanext-jena - Apache Jena storing extension
+ckanext-jena - Semantic data management extension
 ===========================================================
 
 .. Put a description of your extension here:
